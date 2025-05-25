@@ -30,7 +30,7 @@ Currently, the app is in an early stage, with a login screen as a placeholder, a
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/inventory-management-app.git
+git clone https://github.com/codingSchedar/InventorySystem.git
 
 markdown
 Copy
